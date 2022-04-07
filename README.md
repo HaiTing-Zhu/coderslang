@@ -1,2 +1,1 @@
-# coderslang
-coderslang
+# [coderslang](https://js.coderslang.com/)
